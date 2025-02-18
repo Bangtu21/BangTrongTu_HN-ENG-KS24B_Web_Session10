@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    background-color: #e5e5e5;
+    display: flex;
+    height: 10vh;
+    justify-content: center;
+    align-items: center;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    margin-right: 70px;
+    margin-left: 70px;
+}
+
+li{
+    margin: 10px;
+    color: #a1a1a1;
+    font-family: "Roboto";
+}
+
+.home{
+    color: black;
+}
+
+button{
+    width: 80px;
+    height: 30px;
+    background-color: #8d939e;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-family: "Roboto";
+}
+
+h1{
+    font-family: "Grechen Fuemen";
+}
+
